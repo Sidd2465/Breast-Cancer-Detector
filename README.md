@@ -1,7 +1,7 @@
 # Breast-Cancer-Detector
 Breast Cancer Classification: A Comprehensive Analysis with Outlier Investigation
 🎯 Objective
-This project presents a comprehensive analysis of the Wisconsin Diagnostic Breast Cancer dataset, focusing on:
+This project presents a comprehensive analysis of the Wisconsin Diagnostic Breast Cancer dataset, focusing on:\\
 
 Thorough exploratory data analysis
 Detailed outlier detection and analysis
